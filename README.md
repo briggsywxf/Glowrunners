@@ -6,6 +6,10 @@
 - Most Entertaining
 - Hackers' Choice
 ---
+
+![Glowrunners Gameplay](https://user-images.githubusercontent.com/20879490/163439865-73bc0a5c-9caa-46ed-b958-c445fc69e49d.gif)
+
+
 Glowrunners is a local-multiplayer, ragdoll physics racing game. The aim is simple - navigate a course filled with tracherous physics-based obstacles and wild powerups - and faster than your opponent!
 
 Glowrunners was created in 24 hours for Bath Hack 2021, in collaboration with Simon Balfe, and James Johnson.
