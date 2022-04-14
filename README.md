@@ -9,6 +9,7 @@
 
 ![Glowrunners Gameplay](https://user-images.githubusercontent.com/20879490/163439865-73bc0a5c-9caa-46ed-b958-c445fc69e49d.gif)
 
+[Demo video](https://www.youtube.com/watch?v=ZOPI7mbVEWY)
 
 Glowrunners is a local-multiplayer, ragdoll physics racing game. The aim is simple - navigate a course filled with tracherous physics-based obstacles and wild powerups - and faster than your opponent!
 
